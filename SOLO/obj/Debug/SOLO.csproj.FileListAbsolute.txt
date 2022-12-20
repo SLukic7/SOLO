@@ -1,0 +1,46 @@
+C:\Users\slukic1\Desktop\SOLO\SOLO\bin\Debug\SOLO.exe
+C:\Users\slukic1\Desktop\SOLO\SOLO\bin\Debug\SOLO.pdb
+C:\Users\slukic1\Desktop\SOLO\SOLO\obj\Debug\SOLO.Properties.Resources.resources
+C:\Users\slukic1\Desktop\SOLO\SOLO\obj\Debug\SOLO.csproj.GenerateResource.Cache
+C:\Users\slukic1\Desktop\SOLO\SOLO\obj\Debug\SOLO.exe
+C:\Users\slukic1\Desktop\SOLO\SOLO\obj\Debug\SOLO.pdb
+C:\Users\slukic1\Desktop\SOLO\SOLO\obj\Debug\SOLO.frmSOLO.resources
+C:\Users\slukic1\Desktop\SOLO\SOLO\obj\Debug\SOLO.frmArticles.resources
+C:\Users\slukic1\Desktop\SOLO\SOLO\obj\Debug\SOLO.csprojResolveAssemblyReference.cache
+C:\Users\slukic1\Desktop\SOLO\SOLO\obj\Debug\SOLO.frmAddArticle.resources
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\bin\Debug\SOLO.exe.config
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\bin\Debug\SOLO.exe
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\bin\Debug\SOLO.pdb
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.frmAddArticle.resources
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.frmArticles.resources
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.frmHerikteraj.resources
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.frmNewOrder.resources
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.frmOrders.resources
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.frmSOLO.resources
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.exe
+C:\Users\Administrator\Desktop\New folder\SOLO\SOLO\obj\Debug\SOLO.pdb
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\bin\Debug\SOLO.exe.config
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.exe
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.pdb
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\bin\Debug\SOLO.exe
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\bin\Debug\SOLO.pdb
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\bin\Debug\mscorlib.dll
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\bin\Debug\normidna.nlp
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\bin\Debug\normnfc.nlp
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\bin\Debug\normnfd.nlp
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\bin\Debug\normnfkc.nlp
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\bin\Debug\normnfkd.nlp
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.csprojResolveAssemblyReference.cache
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.frmAddArticle.resources
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.frmArticles.resources
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.frmHerikteraj.resources
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.frmNewOrder.resources
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.frmOrders.resources
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.frmSOLO.resources
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.Properties.Resources.resources
+C:\Users\slukic1\Desktop\SOLO\SOLO\SOLO\obj\Debug\SOLO.csproj.GenerateResource.Cache
